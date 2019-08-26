@@ -1,0 +1,21 @@
+.success {
+    /* background-color: green; */
+    color:limegreen;
+    font-weight: bold;
+    padding: 10px;
+    border : 2px dotted limegreen;
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+    padding: 10px;
+    border : 2px dotted red;
+}
+
+.test{
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+    border : 2px dotted blue;   
+}

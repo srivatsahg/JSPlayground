@@ -1,0 +1,16 @@
+li {
+    list-style-type: none;
+    border: 1px dotted #989;
+    padding: 8px;
+    max-width: 200px;
+    margin: 8px auto;
+    background: lightblue;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: peachpuff;
+    padding: 10px;
+    margin: 20px;
+}
