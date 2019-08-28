@@ -1,0 +1,20 @@
+.form-canvas {
+    max-width: 200px;
+    background: #99AA87;
+    padding: 200px;
+    margin: 20px;
+    
+}
+
+h3 {
+    font-family: monospace;
+
+}
+
+input {
+    display: block;
+    font-family: monospace;
+    font-weight: bolder;
+    align-content: center;
+}
+
