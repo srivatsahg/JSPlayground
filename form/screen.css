@@ -5,6 +5,12 @@
     margin: 20px;
     
 }
+.success {
+    border: 2px solid limegreen;
+}
+.error {
+    border: 2px solid red;
+}
 
 h3 {
     font-family: monospace;
@@ -16,5 +22,6 @@ input {
     font-family: monospace;
     font-weight: bolder;
     align-content: center;
+
 }
 
